@@ -1,1 +1,19 @@
-/* Add styles here */
+q {
+    font-family: "Lobster Two", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+#person {
+    font-family: "Baskervville SC", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+button {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  
+  
+      

@@ -1,25 +1,35 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Hello World</title>
-   <script src="https://cdn.tailwindcss.com"></script>
-  <link href='/style.css' rel='stylesheet'>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hello World</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="main.js" defer></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Lobster&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link href='/style.css' rel='stylesheet'>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Lobster&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 </head>
-<body class="bg-[#1a1a1a] p-0 m-0">
+<body class="bg-[#bbb9b9] p-0 m-0">
   <div class="container flex flex-col text-center justify-center items-center w-[90%] mx-auto my-10 md:w-[700px] lg:w-[900px]">
-    <div class="bg-[#262626] w-[250px] p-4 border-2 border-[#ffffff] rounded-md text-white text-[25px] md:w-[400px] md:text-[40px] lg:w-[500px] lg:text-[50px]">
+    <div class="bg-[#262626] w-[250px] p-4 border-2 border-[#ffffff] rounded-md text-white text-[25px] md:w-[300px] md:text-[35px] lg:w-[400px] lg:text-[40px]">
         <h2 class="capitalize">quote generator</h2>
     </div>
-    <div class="bg-[#FFF] flex flex-col items-center justify-center w-[350px] p-2 m-5 border-2 border-[#ffffff] rounded-md md:w-[500px] lg:w-[700px] ">
+    <div class="bg-[#FFF] flex flex-col items-center shadow-md justify-center w-[350px] p-2 m-5 border-2 border-[#ffffff] rounded-[20px] md:w-[500px] lg:w-[700px] ">
         <div class="pb-1 m-2  md:pb-4 lg:pb-6 md:p-4 lg:p-6">
-            <q class="capitalize font-bold text-[20px] md:text-[25px] lg:text-[30px]">
+            <q id="quote" class="capitalize font-bold text-[20px] md:text-[25px] lg:text-[30px]">
                 i can do the very best i know how - the very best i can;
                 and i mean to keep on doing so until the end
             </q>
         </div>
-        <div class="uppercase font-serif text-red-600  pb-2 text-[20px] md:text-[25px] lg:text-[30px]">
+        <div id="person" class="uppercase font-serif text-red-600  pb-2 text-[20px] md:text-[25px] lg:text-[30px]">
             abraham lincoln
 
         </div>
