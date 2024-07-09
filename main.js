@@ -200,14 +200,14 @@ const quotes = [
             quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
             person: "Winston Churchill"
         },
-        // {
-        //     quote: "That which does not kill us makes us stronger.",
-        //     person: "Friedrich Nietzsche"
-        // },
-        // {
-        //     quote: "Life is what happens when you're busy making other plans.",
-        //     person: "John Lennon"
-        // },
+        {
+            quote: "That which does not kill us makes us stronger.",
+            person: "Friedrich Nietzsche"
+        },
+        {
+            quote: "Life is what happens when you're busy making other plans.",
+            person: "John Lennon"
+        },
         // {
         //     quote: "Good artists copy, great artists steal.",
         //     person: "Pablo Picasso"
