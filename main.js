@@ -220,10 +220,10 @@ const quotes = [
             quote: "Dream big and dare to fail.",
             person: "Norman Vaughan"
         },
-        // {
-        //     quote: "Life is really simple, but we insist on making it complicated.",
-        //     person: "Confucius"
-        // },
+        {
+            quote: "Life is really simple, but we insist on making it complicated.",
+            person: "Confucius"
+        },
         // {
         //     quote: "You must be the change you wish to see in the world.",
         //     person: "Mahatma Gandhi"
