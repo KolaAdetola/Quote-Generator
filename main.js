@@ -195,10 +195,10 @@ const quotes = [
             quote: "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
             person: "Ralph Waldo Emerson"
         },
-//         {
-//             quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
-//             person: "Winston Churchill"
-//         },
+        {
+            quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+            person: "Winston Churchill"
+        },
 //         {
 //             quote: "That which does not kill us makes us stronger.",
 //             person: "Friedrich Nietzsche"
