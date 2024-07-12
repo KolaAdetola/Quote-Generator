@@ -183,14 +183,14 @@ const quotes = [
             quote: "Good artists copy, great artists steal.",
             person: "Pablo Picasso"
         },
-        // {
-        //     quote: "The journey of a thousand miles begins with one step.",
-        //     person: "Lao Tzu"
-        // },
-//         {
-//             quote: "The unexamined life is not worth living.",
-//             person: "Socrates"
-//         },
+        {
+            quote: "The journey of a thousand miles begins with one step.",
+            person: "Lao Tzu"
+        },
+        {
+            quote: "The unexamined life is not worth living.",
+            person: "Socrates"
+        },
 //         {
 //             quote: "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
 //             person: "Ralph Waldo Emerson"
