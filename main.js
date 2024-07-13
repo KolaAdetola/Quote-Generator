@@ -219,7 +219,7 @@ const quotes = [
             quote: "Dream big and dare to fail.",
             person: "Norman Vaughan",
         },
-//         {
+        {
 //             quote: "Life is really simple, but we insist on making it complicated.",
 //             person: "Confucius",
 //         },
