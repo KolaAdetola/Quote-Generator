@@ -220,9 +220,9 @@ const quotes = [
             person: "Norman Vaughan",
         },
         {
-//             quote: "Life is really simple, but we insist on making it complicated.",
-//             person: "Confucius",
-//         },
+            quote: "Life is really simple, but we insist on making it complicated.",
+            person: "Confucius",
+        },
 //         {
 //             quote: "The only limit to our realization of tomorrow will be our doubts of today.",
 //             person: "Franklin D. Roosevelt" ,
