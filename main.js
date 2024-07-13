@@ -207,14 +207,14 @@ const quotes = [
             quote: "Life is what happens when you're busy making other plans.",
             person: "John Lennon"
         },
-//         {
-//             quote: "Good artists copy, great artists steal.",
-//             person: "Pablo Picasso",
-//         },
-//         {
-//             quote: "The journey of a thousand miles begins with one step.",
-//             person: "Lao Tzu",
-//         },
+        {
+            quote: "Good artists copy, great artists steal.",
+            person: "Pablo Picasso",
+        },
+        {
+            quote: "The journey of a thousand miles begins with one step.",
+            person: "Lao Tzu",
+        },
 //         {
 //             quote: "Dream big and dare to fail.",
 //             person: "Norman Vaughan",
