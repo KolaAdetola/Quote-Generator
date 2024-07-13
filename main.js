@@ -199,14 +199,14 @@ const quotes = [
             quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
             person: "Winston Churchill"
         },
-//         {
-//             quote: "That which does not kill us makes us stronger.",
-//             person: "Friedrich Nietzsche"
-//         },
-//         {
-//             quote: "Life is what happens when you're busy making other plans.",
-//             person: "John Lennon"
-//         },
+        {
+            quote: "That which does not kill us makes us stronger.",
+            person: "Friedrich Nietzsche"
+        },
+        {
+            quote: "Life is what happens when you're busy making other plans.",
+            person: "John Lennon"
+        },
 //         {
 //             quote: "Good artists copy, great artists steal.",
 //             person: "Pablo Picasso",
@@ -227,12 +227,10 @@ const quotes = [
 //             quote: "The only limit to our realization of tomorrow will be our doubts of today.",
 //             person: "Franklin D. Roosevelt" ,
 //         },
-// // Suggested code may be subject to a license. Learn more: ~LicenseLog:4145804269.
 //         {
 //             quote: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
 //             person: "Nelson Mandela",
 //         },
-// // Suggested code may be subject to a license. Learn more: ~LicenseLog:346092505.
 //         {
 //             quote: "The way to get started is to quit talking and begin doing.",
 //             person: "Walt Disney",
@@ -417,7 +415,6 @@ const quotes = [
 //             quote: "If you don’t share someone’s pain, you can never understand them.",
 //             person: "Nagato",
 //         },
-    
 //         {
 //             quote: "Life gets better when you stop caring about everything.",
 //             person: "Maxime Lagacé"
