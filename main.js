@@ -223,10 +223,10 @@ const quotes = [
             quote: "Life is really simple, but we insist on making it complicated.",
             person: "Confucius",
         },
-//         {
-//             quote: "The only limit to our realization of tomorrow will be our doubts of today.",
-//             person: "Franklin D. Roosevelt" ,
-//         },
+        // {
+        //     quote: "The only limit to our realization of tomorrow will be our doubts of today.",
+        //     person: "Franklin D. Roosevelt" ,
+        // },
 //         {
 //             quote: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
 //             person: "Nelson Mandela",
@@ -823,3 +823,4 @@ const quotes = [
     quote.textContent = quotes[random].quote;
     persons.textContent = quotes[random].person;
 })
+console.log(quotes.length);
