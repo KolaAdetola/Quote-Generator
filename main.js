@@ -231,10 +231,10 @@ const quotes = [
             quote: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
             person: "Nelson Mandela",
         },
-//         {
-//             quote: "The way to get started is to quit talking and begin doing.",
-//             person: "Walt Disney",
-//         },
+        {
+            quote: "The way to get started is to quit talking and begin doing.",
+            person: "Walt Disney",
+        },
 //         {
 //             quote: "Don't watch the clock; do what it does. Keep going.",
 //             person: "Sam Levenson",
