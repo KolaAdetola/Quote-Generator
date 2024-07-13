@@ -235,10 +235,10 @@ const quotes = [
             quote: "The way to get started is to quit talking and begin doing.",
             person: "Walt Disney",
         },
-//         {
-//             quote: "Don't watch the clock; do what it does. Keep going.",
-//             person: "Sam Levenson",
-//         },
+        {
+            quote: "Don't watch the clock; do what it does. Keep going.",
+            person: "Sam Levenson",
+        },
 //         {
 //             quote: "It does not matter how slowly you go as long as you do not stop.",
 //             person: "Confucius",
