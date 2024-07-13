@@ -239,10 +239,10 @@ const quotes = [
             quote: "Don't watch the clock; do what it does. Keep going.",
             person: "Sam Levenson",
         },
-//         {
-//             quote: "It does not matter how slowly you go as long as you do not stop.",
-//             person: "Confucius",
-//         },
+        {
+            quote: "It does not matter how slowly you go as long as you do not stop.",
+            person: "Confucius",
+        },
 //         {
 //             quote: "The only thing necessary for the triumph of evil is for good men to do nothing.",
 //             person: "Edmund Burke",
