@@ -227,10 +227,10 @@ const quotes = [
             quote: "The only limit to our realization of tomorrow will be our doubts of today.",
             person: "Franklin D. Roosevelt" ,
         },
-//         {
-//             quote: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
-//             person: "Nelson Mandela",
-//         },
+        {
+            quote: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+            person: "Nelson Mandela",
+        },
 //         {
 //             quote: "The way to get started is to quit talking and begin doing.",
 //             person: "Walt Disney",
