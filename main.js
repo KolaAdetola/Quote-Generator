@@ -215,10 +215,10 @@ const quotes = [
             quote: "The journey of a thousand miles begins with one step.",
             person: "Lao Tzu",
         },
-//         {
-//             quote: "Dream big and dare to fail.",
-//             person: "Norman Vaughan",
-//         },
+        {
+            quote: "Dream big and dare to fail.",
+            person: "Norman Vaughan",
+        },
 //         {
 //             quote: "Life is really simple, but we insist on making it complicated.",
 //             person: "Confucius",
