@@ -299,10 +299,10 @@ const quotes = [
             quote: "The best way to predict the future is to invent it.",
             person: "Alan Kay",
         },
-//         {
-//             quote:"Life can only be understood backwards; but it must be lived forwards.",
-//             person:"Søren Kierkegaard",
-//         },
+        {
+            quote:"Life can only be understood backwards; but it must be lived forwards.",
+            person:"Søren Kierkegaard",
+        },
 //         {
 //             quote: "If you spend too much time thinking about a thing, you’ll never get it done.",
 //             person: "Bruce Lee",
