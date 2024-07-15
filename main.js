@@ -335,14 +335,14 @@ const quotes = [
             quote:"Three things in life – your health, your mission, and the people you love.That’s it",
             person:"Naval Ravikant",
         },
-//         {
-//             quote: "Be happy for this moment. This moment is your life.",
-//             person: "Omar Khayyam",
-//         },
-//         {
-//             quote:"Difficult and meaningful will always bring more satisfaction than easy and meaningless.",
-//             person:"Maxime Lagacé",
-//         },
+        {
+            quote: "Be happy for this moment. This moment is your life.",
+            person: "Omar Khayyam",
+        },
+        {
+            quote:"Difficult and meaningful will always bring more satisfaction than easy and meaningless.",
+            person:"Maxime Lagacé",
+        },
 //         {
 //             quote: "Everything has beauty, but not everyone sees it.",
 //             person: "confucius",
