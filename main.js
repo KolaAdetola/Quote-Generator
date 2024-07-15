@@ -243,14 +243,14 @@ const quotes = [
             quote: "It does not matter how slowly you go as long as you do not stop.",
             person: "Confucius",
         },
-//         {
-//             quote: "The only thing necessary for the triumph of evil is for good men to do nothing.",
-//             person: "Edmund Burke",
-//         },
-//         {
-//             quote: "The only way to do great work is to love what you do.",
-//             person: "Steve Jobs",
-//         },
+        {
+            quote: "The only thing necessary for the triumph of evil is for good men to do nothing.",
+            person: "Edmund Burke",
+        },
+        {
+            quote: "The only way to do great work is to love what you do.",
+            person: "Steve Jobs",
+        },
 //         {
 //             quote: "The greatest wealth is to live content with little.",
 //             person: "Plato",
