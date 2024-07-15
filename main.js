@@ -323,10 +323,10 @@ const quotes = [
             quote: "Almost nothing material is needed for a happy life, for he who has understood existence.",
             person: "Marcus Aurelius",
         },
-//         {
-//             quote:"The realization that life is absurd cannot be an end, but only a beginning.",
-//             person:"Albert Camus",
-//         },
+        {
+            quote:"The realization that life is absurd cannot be an end, but only a beginning.",
+            person:"Albert Camus",
+        },
 //         {
 //             quote: "Not how long, but how well you have lived is the main thing.",
 //             person: "seneca",
