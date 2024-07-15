@@ -295,10 +295,10 @@ const quotes = [
             quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
             person: "Zig Ziglar",
         },
-//         {
-//             quote: "The best way to predict the future is to invent it.",
-//             person: "Alan Kay",
-//         },
+        {
+            quote: "The best way to predict the future is to invent it.",
+            person: "Alan Kay",
+        },
 //         {
 //             quote:"Life can only be understood backwards; but it must be lived forwards.",
 //             person:"Søren Kierkegaard",
