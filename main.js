@@ -279,14 +279,14 @@ const quotes = [
             quote: "The only true wisdom is in knowing you know nothing.",
             person: "Socrates",
         },
-//         {
-//             quote: "The best revenge is massive success.",
-//             person: "Frank Sinatra",
-//         },
-//         {
-//             quote: "The only limit to our realization of tomorrow is our doubts of today.",
-//             person: "Franklin D. Roosevelt",
-//         },
+        {
+            quote: "The best revenge is massive success.",
+            person: "Frank Sinatra",
+        },
+        {
+            quote: "The only limit to our realization of tomorrow is our doubts of today.",
+            person: "Franklin D. Roosevelt",
+        },
 //         {
 //             quote: "It always seems impossible until it's done.",
 //             person: "Nelson Mandela",
