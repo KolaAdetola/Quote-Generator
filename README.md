@@ -17,7 +17,7 @@ The Quote Generator is a web-based application that fetches and displays random 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/kolaAdetola/quote-generator.git
+    git clone https://github.com/KolaAdetola/Quote-Generator.git
     ```
 
 2. Navigate to the project directory:

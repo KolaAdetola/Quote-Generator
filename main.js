@@ -263,14 +263,14 @@ const quotes = [
             quote: "The only source of knowledge is experience.",
             person: "Albert Einstein",
         },
-//         {
-//             quote: "You miss 100% of the shots you don't take.",
-//             person: "Wayne Gretzky",
-//         },
-//         {
-//             quote: "Whether you think you can or you think you can't, you're right.",
-//             person: "Henry Ford",
-//         },
+        {
+            quote: "You miss 100% of the shots you don't take.",
+            person: "Wayne Gretzky",
+        },
+        {
+            quote: "Whether you think you can or you think you can't, you're right.",
+            person: "Henry Ford",
+        },
 //         {
 //             quote: "Act as if what you do makes a difference. It does.",
 //             person: "William James",
