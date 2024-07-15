@@ -327,10 +327,10 @@ const quotes = [
             quote:"The realization that life is absurd cannot be an end, but only a beginning.",
             person:"Albert Camus",
         },
-//         {
-//             quote: "Not how long, but how well you have lived is the main thing.",
-//             person: "seneca",
-//         },
+        {
+            quote: "Not how long, but how well you have lived is the main thing.",
+            person: "seneca",
+        },
 //         {
 //             quote:"Three things in life – your health, your mission, and the people you love.That’s it",
 //             person:"Naval Ravikant",
