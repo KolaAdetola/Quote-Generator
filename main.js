@@ -255,14 +255,14 @@ const quotes = [
             quote: "The greatest wealth is to live content with little.",
             person: "Plato",
         },
-//         {
-//             quote: "The best way to predict the future is to invent it.",
-//             person: "Alan Kay",
-//         },
-//         {
-//             quote: "The only source of knowledge is experience.",
-//             person: "Albert Einstein",
-//         },
+        {
+            quote: "The best way to predict the future is to invent it.",
+            person: "Alan Kay",
+        },
+        {
+            quote: "The only source of knowledge is experience.",
+            person: "Albert Einstein",
+        },
 //         {
 //             quote: "You miss 100% of the shots you don't take.",
 //             person: "Wayne Gretzky",
