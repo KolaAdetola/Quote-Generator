@@ -251,10 +251,10 @@ const quotes = [
             quote: "The only way to do great work is to love what you do.",
             person: "Steve Jobs",
         },
-//         {
-//             quote: "The greatest wealth is to live content with little.",
-//             person: "Plato",
-//         },
+        {
+            quote: "The greatest wealth is to live content with little.",
+            person: "Plato",
+        },
 //         {
 //             quote: "The best way to predict the future is to invent it.",
 //             person: "Alan Kay",
