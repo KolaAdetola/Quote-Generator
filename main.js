@@ -311,14 +311,14 @@ const quotes = [
             quote:"Life is like a box of chocolates. You never know what you’re going to get.",
             person:" Forrest Gump",
         },
-//         {
-//             quote: "The quality of your life is directly related to how much uncertainty you can comfortably handle.",
-//             person: "Tony Robbins",
-//         },
-//         {
-//             quote:"A happy life consists in the tranquility of mind.",
-//             person:"Marcus Tullius Cicero",
-//         },
+        {
+            quote: "The quality of your life is directly related to how much uncertainty you can comfortably handle.",
+            person: "Tony Robbins",
+        },
+        {
+            quote:"A happy life consists in the tranquility of mind.",
+            person:"Marcus Tullius Cicero",
+        },
 //         {
 //             quote: "Almost nothing material is needed for a happy life, for he who has understood existence.",
 //             person: "Marcus Aurelius",
