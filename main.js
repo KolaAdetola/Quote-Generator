@@ -331,10 +331,10 @@ const quotes = [
             quote: "Not how long, but how well you have lived is the main thing.",
             person: "seneca",
         },
-//         {
-//             quote:"Three things in life – your health, your mission, and the people you love.That’s it",
-//             person:"Naval Ravikant",
-//         },
+        {
+            quote:"Three things in life – your health, your mission, and the people you love.That’s it",
+            person:"Naval Ravikant",
+        },
 //         {
 //             quote: "Be happy for this moment. This moment is your life.",
 //             person: "Omar Khayyam",
