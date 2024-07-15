@@ -287,14 +287,14 @@ const quotes = [
             quote: "The only limit to our realization of tomorrow is our doubts of today.",
             person: "Franklin D. Roosevelt",
         },
-//         {
-//             quote: "It always seems impossible until it's done.",
-//             person: "Nelson Mandela",
-//         },
-//         {
-//             quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
-//             person: "Zig Ziglar",
-//         },
+        {
+            quote: "It always seems impossible until it's done.",
+            person: "Nelson Mandela",
+        },
+        {
+            quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+            person: "Zig Ziglar",
+        },
 //         {
 //             quote: "The best way to predict the future is to invent it.",
 //             person: "Alan Kay",
