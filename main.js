@@ -319,10 +319,10 @@ const quotes = [
             quote:"A happy life consists in the tranquility of mind.",
             person:"Marcus Tullius Cicero",
         },
-//         {
-//             quote: "Almost nothing material is needed for a happy life, for he who has understood existence.",
-//             person: "Marcus Aurelius",
-//         },
+        {
+            quote: "Almost nothing material is needed for a happy life, for he who has understood existence.",
+            person: "Marcus Aurelius",
+        },
 //         {
 //             quote:"The realization that life is absurd cannot be an end, but only a beginning.",
 //             person:"Albert Camus",
