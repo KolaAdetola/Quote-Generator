@@ -303,10 +303,10 @@ const quotes = [
             quote:"Life can only be understood backwards; but it must be lived forwards.",
             person:"Søren Kierkegaard",
         },
-//         {
-//             quote: "If you spend too much time thinking about a thing, you’ll never get it done.",
-//             person: "Bruce Lee",
-//         },
+        {
+            quote: "If you spend too much time thinking about a thing, you’ll never get it done.",
+            person: "Bruce Lee",
+        },
 //         {
 //             quote:"Life is like a box of chocolates. You never know what you’re going to get.",
 //             person:" Forrest Gump",
