@@ -391,10 +391,10 @@ const quotes = [
             quote: "You’ve gotta dance like there’s nobody watching",
             person: "William W. Purkey",
         },
-//         {
-//             quote: "You cannot be afraid to disappoint people. You have to live the life you want to live.",
-//             person: " David Goggins",
-//         },
+        {
+            quote: "You cannot be afraid to disappoint people. You have to live the life you want to live.",
+            person: " David Goggins",
+        },
 //         {
 //             quote: "Life is nothing but a mirror of your consistent thoughts.",
 //             person: "Tony Robbins",
