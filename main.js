@@ -355,10 +355,10 @@ const quotes = [
             quote:"A person who never made a mistake never tried anything new.",
             person:"Albert Einstein",
         },
-//         {
-//             quote:"Don't dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
-//             person:"Buddha",
-//         },
+        {
+            quote:"Don't dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+            person:"Buddha",
+        },
 //         {
 //             quote:"Dost thou love life? Then do not squander time, for that is the stuff life is made of. ",
 //             person:"Benjamin Franklin",
