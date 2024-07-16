@@ -399,10 +399,10 @@ const quotes = [
             quote: "Life is nothing but a mirror of your consistent thoughts.",
             person: "Tony Robbins",
         },
-//         {
-//             quote: "The soul becomes dyed with the color of its thoughts.",
-//             person: "Marcus Aurelius",
-//         },
+        {
+            quote: "The soul becomes dyed with the color of its thoughts.",
+            person: "Marcus Aurelius",
+        },
 //         {
 //             quote: "Craziness is good. Crazy people are happy, free, they have no hindrance.",
 //             person: "Seungsahn",
