@@ -387,10 +387,10 @@ const quotes = [
             quote: "Don’t search for the meaning of life. Simply be present for the people you love.",
             person: "Maxime Lagacé",
         },
-//         {
-//             quote: "You’ve gotta dance like there’s nobody watching",
-//             person: "William W. Purkey",
-//         },
+        {
+            quote: "You’ve gotta dance like there’s nobody watching",
+            person: "William W. Purkey",
+        },
 //         {
 //             quote: "You cannot be afraid to disappoint people. You have to live the life you want to live.",
 //             person: " David Goggins",
