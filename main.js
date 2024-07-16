@@ -351,10 +351,10 @@ const quotes = [
             quote:"The best preparation for tomorrow is doing your best today.",
             person:"H. Jackson Brown Jr.",
         },
-//         {
-//             quote:"A person who never made a mistake never tried anything new.",
-//             person:"Albert Einstein",
-//         },
+        {
+            quote:"A person who never made a mistake never tried anything new.",
+            person:"Albert Einstein",
+        },
 //         {
 //             quote:"Don't dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
 //             person:"Buddha",
