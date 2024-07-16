@@ -363,10 +363,10 @@ const quotes = [
             quote:"Dost thou love life? Then do not squander time, for that is the stuff life is made of. ",
             person:"Benjamin Franklin",
         },
-//         {
-//             quote: "It’s a terrible thing, I think, in life, to wait until you’re ready.",
-//             person: "Hugh Laurie",
-//         },
+        {
+            quote: "It’s a terrible thing, I think, in life, to wait until you’re ready.",
+            person: "Hugh Laurie",
+        },
 //         {
 //             quote:"Man is made by his belief. As he believes so he is.",
 //             person:"Bhagavad Gita",
