@@ -367,10 +367,10 @@ const quotes = [
             quote: "It’s a terrible thing, I think, in life, to wait until you’re ready.",
             person: "Hugh Laurie",
         },
-//         {
-//             quote:"Man is made by his belief. As he believes so he is.",
-//             person:"Bhagavad Gita",
-//         },
+        {
+            quote:"Man is made by his belief. As he believes so he is.",
+            person:"Bhagavad Gita",
+        },
 //         {
 //             quote: "Life is a mountain. Your goal is to find your path, not to reach the top.",
 //             person: "Maxime Lagacé",
