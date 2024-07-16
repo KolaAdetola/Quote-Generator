@@ -383,10 +383,10 @@ const quotes = [
             quote: "In the end, it’s not the years in your life that count. It’s the life in your years.",
             person: "Abraham Lincoln",
         },
-//         {
-//             quote: "Don’t search for the meaning of life. Simply be present for the people you love.",
-//             person: "Maxime Lagacé",
-//         },
+        {
+            quote: "Don’t search for the meaning of life. Simply be present for the people you love.",
+            person: "Maxime Lagacé",
+        },
 //         {
 //             quote: "You’ve gotta dance like there’s nobody watching",
 //             person: "William W. Purkey",
