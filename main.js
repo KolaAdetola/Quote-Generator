@@ -347,10 +347,10 @@ const quotes = [
             quote: "Everything has beauty, but not everyone sees it.",
             person: "confucius",
         },
-//         {
-//             quote:"The best preparation for tomorrow is doing your best today.",
-//             person:"H. Jackson Brown Jr.",
-//         },
+        {
+            quote:"The best preparation for tomorrow is doing your best today.",
+            person:"H. Jackson Brown Jr.",
+        },
 //         {
 //             quote:"A person who never made a mistake never tried anything new.",
 //             person:"Albert Einstein",
