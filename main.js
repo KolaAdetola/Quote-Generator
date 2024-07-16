@@ -371,10 +371,10 @@ const quotes = [
             quote:"Man is made by his belief. As he believes so he is.",
             person:"Bhagavad Gita",
         },
-//         {
-//             quote: "Life is a mountain. Your goal is to find your path, not to reach the top.",
-//             person: "Maxime Lagacé",
-//         },
+        {
+            quote: "Life is a mountain. Your goal is to find your path, not to reach the top.",
+            person: "Maxime Lagacé",
+        },
 //         {
 //             quote:"It’s the possibility of having a dream come true that makes life interesting.",
 //             person:"Paulo Coelho (The Alchemist)",
