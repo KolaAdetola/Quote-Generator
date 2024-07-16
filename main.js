@@ -343,10 +343,10 @@ const quotes = [
             quote:"Difficult and meaningful will always bring more satisfaction than easy and meaningless.",
             person:"Maxime Lagacé",
         },
-//         {
-//             quote: "Everything has beauty, but not everyone sees it.",
-//             person: "confucius",
-//         },
+        {
+            quote: "Everything has beauty, but not everyone sees it.",
+            person: "confucius",
+        },
 //         {
 //             quote:"The best preparation for tomorrow is doing your best today.",
 //             person:"H. Jackson Brown Jr.",
