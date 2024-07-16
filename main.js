@@ -395,10 +395,10 @@ const quotes = [
             quote: "You cannot be afraid to disappoint people. You have to live the life you want to live.",
             person: " David Goggins",
         },
-//         {
-//             quote: "Life is nothing but a mirror of your consistent thoughts.",
-//             person: "Tony Robbins",
-//         },
+        {
+            quote: "Life is nothing but a mirror of your consistent thoughts.",
+            person: "Tony Robbins",
+        },
 //         {
 //             quote: "The soul becomes dyed with the color of its thoughts.",
 //             person: "Marcus Aurelius",
