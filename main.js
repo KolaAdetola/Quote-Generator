@@ -359,10 +359,10 @@ const quotes = [
             quote:"Don't dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
             person:"Buddha",
         },
-//         {
-//             quote:"Dost thou love life? Then do not squander time, for that is the stuff life is made of. ",
-//             person:"Benjamin Franklin",
-//         },
+        {
+            quote:"Dost thou love life? Then do not squander time, for that is the stuff life is made of. ",
+            person:"Benjamin Franklin",
+        },
 //         {
 //             quote: "It’s a terrible thing, I think, in life, to wait until you’re ready.",
 //             person: "Hugh Laurie",
