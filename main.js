@@ -375,10 +375,10 @@ const quotes = [
             quote: "Life is a mountain. Your goal is to find your path, not to reach the top.",
             person: "Maxime Lagacé",
         },
-//         {
-//             quote:"It’s the possibility of having a dream come true that makes life interesting.",
-//             person:"Paulo Coelho (The Alchemist)",
-//         },
+        {
+            quote:"It’s the possibility of having a dream come true that makes life interesting.",
+            person:"Paulo Coelho (The Alchemist)",
+        },
 //         {
 //             quote: "In the end, it’s not the years in your life that count. It’s the life in your years.",
 //             person: "Abraham Lincoln",
