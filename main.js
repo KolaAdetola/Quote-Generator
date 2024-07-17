@@ -439,6 +439,10 @@ const quotes = [
             quote: "Tis better to have loved and lost than never to have loved at all.",
             person: "Augustine of Hippo"
         },
+        {
+            quote: "If you want to live a happy life, tie it to a goal, not to people or things.",
+            person: "Albert Einstein"
+        },
     ]
 
     btn.addEventListener('click', () => {
