@@ -435,6 +435,10 @@ const quotes = [
             quote: "Life is either a daring adventure or nothing at all.",
             person: "Helen Keller"
         },      
+        {
+            quote: "Tis better to have loved and lost than never to have loved at all.",
+            person: "Augustine of Hippo"
+        },
     ]
 
     btn.addEventListener('click', () => {
