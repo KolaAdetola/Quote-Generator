@@ -419,10 +419,10 @@ const quotes = [
             quote: "Life gets better when you stop caring about everything.",
             person: "Maxime Lagacé"
         },
-//         {
-//             quote: "The mind is everything. What you think you become.",
-//             person: "Buddha"
-//         },
+        {
+            quote: "The mind is everything. What you think you become.",
+            person: "Buddha"
+        },
 //         {
 //             quote: "The trick in life is learning how to deal with it.",
 //             person: "Helen Mirren"
