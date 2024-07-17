@@ -415,10 +415,10 @@ const quotes = [
             quote: "If you don’t share someone’s pain, you can never understand them.",
             person: "Nagato",
         },
-//         {
-//             quote: "Life gets better when you stop caring about everything.",
-//             person: "Maxime Lagacé"
-//         },
+        {
+            quote: "Life gets better when you stop caring about everything.",
+            person: "Maxime Lagacé"
+        },
 //         {
 //             quote: "The mind is everything. What you think you become.",
 //             person: "Buddha"
