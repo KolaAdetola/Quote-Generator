@@ -407,10 +407,10 @@ const quotes = [
             quote: "Craziness is good. Crazy people are happy, free, they have no hindrance.",
             person: "Seungsahn",
         },
-//         {
-//             quote: "I tell you, in this world being a little crazy helps to keep you sane.",
-//             person: "Zsa Zsa Gabor",
-//         },
+        {
+            quote: "I tell you, in this world being a little crazy helps to keep you sane.",
+            person: "Zsa Zsa Gabor",
+        },
 //         {
 //             quote: "If you don’t share someone’s pain, you can never understand them.",
 //             person: "Nagato",
