@@ -427,10 +427,10 @@ const quotes = [
             quote: "The trick in life is learning how to deal with it.",
             person: "Helen Mirren"
         },
-//         {
-//             quote: "Life isn’t about finding yourself. Life is about creating yourself.",
-//             person: "George Bernard Shaw"
-//         },
+        {
+            quote: "Life isn’t about finding yourself. Life is about creating yourself.",
+            person: "George Bernard Shaw"
+        },
 //         {
 //             quote: "Life is either a daring adventure or nothing at all.",
 //             person: "Helen Keller"
