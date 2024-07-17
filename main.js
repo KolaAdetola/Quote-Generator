@@ -443,6 +443,10 @@ const quotes = [
             quote: "If you want to live a happy life, tie it to a goal, not to people or things.",
             person: "Albert Einstein"
         },
+        {
+            quote: "The cost for the good life is giving up comfort.",
+            person: "Maxime Lagacé"
+        },
     ]
 
     btn.addEventListener('click', () => {
