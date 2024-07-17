@@ -431,10 +431,10 @@ const quotes = [
             quote: "Life isn’t about finding yourself. Life is about creating yourself.",
             person: "George Bernard Shaw"
         },
-//         {
-//             quote: "Life is either a daring adventure or nothing at all.",
-//             person: "Helen Keller"
-//         },
+        {
+            quote: "Life is either a daring adventure or nothing at all.",
+            person: "Helen Keller"
+        },
 //         {
 //             quote: "Tis better to have loved and lost than never to have loved at all.",
 //             person: "Augustine of Hippo"
