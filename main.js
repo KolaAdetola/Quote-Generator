@@ -411,10 +411,10 @@ const quotes = [
             quote: "I tell you, in this world being a little crazy helps to keep you sane.",
             person: "Zsa Zsa Gabor",
         },
-//         {
-//             quote: "If you don’t share someone’s pain, you can never understand them.",
-//             person: "Nagato",
-//         },
+        {
+            quote: "If you don’t share someone’s pain, you can never understand them.",
+            person: "Nagato",
+        },
 //         {
 //             quote: "Life gets better when you stop caring about everything.",
 //             person: "Maxime Lagacé"
