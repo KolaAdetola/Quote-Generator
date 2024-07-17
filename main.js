@@ -403,10 +403,10 @@ const quotes = [
             quote: "The soul becomes dyed with the color of its thoughts.",
             person: "Marcus Aurelius",
         },
-//         {
-//             quote: "Craziness is good. Crazy people are happy, free, they have no hindrance.",
-//             person: "Seungsahn",
-//         },
+        {
+            quote: "Craziness is good. Crazy people are happy, free, they have no hindrance.",
+            person: "Seungsahn",
+        },
 //         {
 //             quote: "I tell you, in this world being a little crazy helps to keep you sane.",
 //             person: "Zsa Zsa Gabor",
