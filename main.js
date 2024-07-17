@@ -434,8 +434,7 @@ const quotes = [
         {
             quote: "Life is either a daring adventure or nothing at all.",
             person: "Helen Keller"
-        },
-//        
+        },      
     ]
 
     btn.addEventListener('click', () => {
