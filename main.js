@@ -459,6 +459,10 @@ const quotes = [
             quote: "Keep looking up… that’s the secret of life.",
             person: "Snoopy"
         },
+        {
+            quote: "You must be the change you wish to see in the world.",
+            person: "Mahatma Gandhi"
+        },
     ]
 
     btn.addEventListener('click', () => {
