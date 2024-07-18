@@ -467,6 +467,10 @@ const quotes = [
             quote: "You only live once, but if you do it right, once is enough.",
             person: "Mae West"
         },
+        {
+            quote: "The first step to life is to try. The second is to learn. The third is to share.",
+            person: "Maxime Lagacé"
+        },
     ]
 
     btn.addEventListener('click', () => {
