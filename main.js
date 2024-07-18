@@ -463,6 +463,10 @@ const quotes = [
             quote: "You must be the change you wish to see in the world.",
             person: "Mahatma Gandhi"
         },
+        {
+            quote: "You only live once, but if you do it right, once is enough.",
+            person: "Mae West"
+        },
     ]
 
     btn.addEventListener('click', () => {
