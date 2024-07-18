@@ -447,6 +447,10 @@ const quotes = [
             quote: "The cost for the good life is giving up comfort.",
             person: "Maxime Lagacé"
         },
+        {
+            quote: "Life is only meaningful when we are striving for a goal.",
+            person: "Aristotle"
+        },
     ]
 
     btn.addEventListener('click', () => {
