@@ -455,6 +455,10 @@ const quotes = [
             quote: "Go confidently in the direction of your dreams! Live the life you’ve imagined.",
             person: "Henry David Thoreau"
         },
+        {
+            quote: "Keep looking up… that’s the secret of life.",
+            person: "Snoopy"
+        },
     ]
 
     btn.addEventListener('click', () => {
