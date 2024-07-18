@@ -451,6 +451,10 @@ const quotes = [
             quote: "Life is only meaningful when we are striving for a goal.",
             person: "Aristotle"
         },
+        {
+            quote: "Go confidently in the direction of your dreams! Live the life you’ve imagined.",
+            person: "Henry David Thoreau"
+        },
     ]
 
     btn.addEventListener('click', () => {
