@@ -479,6 +479,10 @@ const quotes = [
             quote: "Life is about moments; don’t wait for them, create them.",
             person: "Tony Robbins"
         },
+        {
+            quote: "Good friends, good books, and a sleepy conscience: this is the ideal life.",
+            person: "Mark Twain"
+        },
     ]
 
     btn.addEventListener('click', () => {
