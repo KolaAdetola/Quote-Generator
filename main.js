@@ -491,6 +491,10 @@ const quotes = [
             quote: "Going back to a simpler life is not a step backward.",
             person: "Yvon Chouinard"
         },
+        {
+            quote: "Our life is frittered away by detail. Simplify, simplify.",
+            person: "Henry David Thoreau"
+        },
     ]
 
     btn.addEventListener('click', () => {
