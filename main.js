@@ -483,6 +483,10 @@ const quotes = [
             quote: "Good friends, good books, and a sleepy conscience: this is the ideal life.",
             person: "Mark Twain"
         },
+        {
+            quote: "The wise simplify. Only the insecure complicate needlessly.",
+            person: "Greg McKeown"
+        },
     ]
 
     btn.addEventListener('click', () => {
