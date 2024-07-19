@@ -487,6 +487,10 @@ const quotes = [
             quote: "The wise simplify. Only the insecure complicate needlessly.",
             person: "Greg McKeown"
         },
+        {
+            quote: "Going back to a simpler life is not a step backward.",
+            person: "Yvon Chouinard"
+        },
     ]
 
     btn.addEventListener('click', () => {
