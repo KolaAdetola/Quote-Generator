@@ -495,6 +495,10 @@ const quotes = [
             quote: "Our life is frittered away by detail. Simplify, simplify.",
             person: "Henry David Thoreau"
         },
+        {
+            quote: "Life is really simple, but we insist on making it complicated.",
+            person: "Confucius"
+        },
     ]
 
     btn.addEventListener('click', () => {
