@@ -507,6 +507,10 @@ const quotes = [
             quote: "The biggest adventure you can ever take is to live the life of your dreams.",
             person: "Oprah Winfrey"
         },
+        {
+            quote: "Success isn’t about how your life looks to others. It’s about how it feels to you.",
+            person: "Michelle Obama"
+        },
     ]
 
     btn.addEventListener('click', () => {
