@@ -519,6 +519,10 @@ const quotes = [
             quote: "Life is a succession of lessons which must be lived to be understood.",
             person: "Ralph Waldo Emerson"
         },
+        {
+            quote: "If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.",
+            person: "Elon Musk"
+        },
     ]
 
     btn.addEventListener('click', () => {
