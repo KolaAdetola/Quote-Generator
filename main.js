@@ -527,6 +527,10 @@ const quotes = [
             quote: "A life worth living might be measured in many ways, but the one way that stands above all others is living a life of no regrets.",
             person: "Gary Keller"
         },
+        {
+            quote: "No one can compete with you on being you. Most of life is a search for who and what needs you the most.",
+            person: "Naval Ravikant"
+        },
     ]
 
     btn.addEventListener('click', () => {
