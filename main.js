@@ -499,6 +499,14 @@ const quotes = [
             quote: "Life is really simple, but we insist on making it complicated.",
             person: "Confucius"
         },
+        {
+            quote: "No person has the right to rain on your dreams.",
+            person: "Martin Luther King Jr"
+        },
+        {
+            quote: "The biggest adventure you can ever take is to live the life of your dreams.",
+            person: "Oprah Winfrey"
+        },
     ]
 
     btn.addEventListener('click', () => {
