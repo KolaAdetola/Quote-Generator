@@ -515,6 +515,10 @@ const quotes = [
             quote: "Nothing great in life comes with complete assurance of success.",
             person: "Michael Easter"
         },
+        {
+            quote: "Life is a succession of lessons which must be lived to be understood.",
+            person: "Ralph Waldo Emerson"
+        },
     ]
 
     btn.addEventListener('click', () => {
