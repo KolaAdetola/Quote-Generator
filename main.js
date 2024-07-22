@@ -523,6 +523,10 @@ const quotes = [
             quote: "If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.",
             person: "Elon Musk"
         },
+        {
+            quote: "A life worth living might be measured in many ways, but the one way that stands above all others is living a life of no regrets.",
+            person: "Gary Keller"
+        },
     ]
 
     btn.addEventListener('click', () => {
