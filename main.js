@@ -535,6 +535,10 @@ const quotes = [
             quote: "Your clarity determines how successfully you walk this life.",
             person: "Sadhguru"
         },
+        {
+            quote: "The purpose of life is to believe, to hope, and to strive.",
+            person: "Indira Gandhi"
+        },  
     ]
 
     btn.addEventListener('click', () => {
