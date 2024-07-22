@@ -511,6 +511,10 @@ const quotes = [
             quote: "Success isn’t about how your life looks to others. It’s about how it feels to you.",
             person: "Michelle Obama"
         },
+        {
+            quote: "Nothing great in life comes with complete assurance of success.",
+            person: "Michael Easter"
+        },
     ]
 
     btn.addEventListener('click', () => {
