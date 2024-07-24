@@ -571,6 +571,10 @@ const quotes = [
             quote: "Challenges, failures, defeats and ultimately, progress, are what make your life worthwhile.",
             person: "Maxime Lagacé"
         },
+        {
+            quote: "In any situation in life, you always have three choices: you can change it, you can accept it, or you can leave it.",
+            person: "Naval Ravikant"
+        },
     ]
 
     btn.addEventListener('click', () => {
