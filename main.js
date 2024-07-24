@@ -551,6 +551,10 @@ const quotes = [
             quote: "Hurrying and delaying are alike ways of trying to resist the present.",
             person: "Alan Watts"
         },
+        {
+            quote: "The chief danger in life is that you may take too many precautions.",
+            person: "Alfred Adler"
+        },
     ]
 
     btn.addEventListener('click', () => {
