@@ -563,6 +563,10 @@ const quotes = [
             quote: "Practice gratitude and count your blessings. There is always something to be thankful for.",
             person: "Sai Baba"
         },
+        {
+            quote: "I alone cannot change the world, but I can cast a stone across the water to create many ripples.",
+            person: "Mother Teresa"
+        },
     ]
 
     btn.addEventListener('click', () => {
