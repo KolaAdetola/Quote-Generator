@@ -543,6 +543,14 @@ const quotes = [
             quote: "Your life becomes meaningful in precise proportion to the depths of the responsibility you are willing to shoulder.",
             person: "Jordan Peterson"
         },
+        {
+            quote: "Cut yourself off from the past and the future and live in the present, and your life becomes a song and a dance.",
+            person: "Osho"
+        },
+        {
+            quote: "Hurrying and delaying are alike ways of trying to resist the present.",
+            person: "Alan Watts"
+        },
     ]
 
     btn.addEventListener('click', () => {
