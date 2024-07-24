@@ -539,6 +539,10 @@ const quotes = [
             quote: "The purpose of life is to believe, to hope, and to strive.",
             person: "Indira Gandhi"
         },  
+        {
+            quote: "Your life becomes meaningful in precise proportion to the depths of the responsibility you are willing to shoulder.",
+            person: "Jordan Peterson"
+        },
     ]
 
     btn.addEventListener('click', () => {
