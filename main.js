@@ -567,6 +567,10 @@ const quotes = [
             quote: "I alone cannot change the world, but I can cast a stone across the water to create many ripples.",
             person: "Mother Teresa"
         },
+        {
+            quote: "Challenges, failures, defeats and ultimately, progress, are what make your life worthwhile.",
+            person: "Maxime Lagacé"
+        },
     ]
 
     btn.addEventListener('click', () => {
