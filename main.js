@@ -559,6 +559,10 @@ const quotes = [
             quote: "Life is sweeter when you have an attitude of gratitude.",
             person: "Dolly Parton"
         },
+        {
+            quote: "Practice gratitude and count your blessings. There is always something to be thankful for.",
+            person: "Sai Baba"
+        },
     ]
 
     btn.addEventListener('click', () => {
