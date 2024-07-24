@@ -555,6 +555,10 @@ const quotes = [
             quote: "The chief danger in life is that you may take too many precautions.",
             person: "Alfred Adler"
         },
+        {
+            quote: "Life is sweeter when you have an attitude of gratitude.",
+            person: "Dolly Parton"
+        },
     ]
 
     btn.addEventListener('click', () => {
