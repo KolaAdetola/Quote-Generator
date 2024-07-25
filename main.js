@@ -615,6 +615,10 @@ const quotes = [
             quote: "Life is not accumulation, it’s about contribution.",
             person: "Stephen R. Covey"
         },
+        {
+            quote: "Life is a tree. Your mind is the roots and who you become is the fruits.",
+            person: "Maxime Lagacé"
+        },
     ]
 
     btn.addEventListener('click', () => {
