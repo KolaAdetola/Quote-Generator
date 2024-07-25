@@ -595,6 +595,10 @@ const quotes = [
             quote: "If my life is going to mean anything, I have to live it myself.",
             person: "Rick Riordan"
         },
+        {
+            quote: "The greatest discovery of any generation is that a human being can alter his life by altering his attitude.",
+            person: "William James"
+        },
     ]
 
     btn.addEventListener('click', () => {
