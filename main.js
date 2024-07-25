@@ -575,6 +575,10 @@ const quotes = [
             quote: "In any situation in life, you always have three choices: you can change it, you can accept it, or you can leave it.",
             person: "Naval Ravikant"
         },
+        {
+            quote: "Be willing to sacrifice what you think you have today for the life that you want tomorrow.",
+            person: "Neil Strauss"
+        },
     ]
 
     btn.addEventListener('click', () => {
