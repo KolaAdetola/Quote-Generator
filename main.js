@@ -579,6 +579,10 @@ const quotes = [
             quote: "Be willing to sacrifice what you think you have today for the life that you want tomorrow.",
             person: "Neil Strauss"
         },
+        {
+            quote: "The more silence you have in your life, the louder your work can be.",
+            person: "Maxime Lagacé"
+        },
     ]
 
     btn.addEventListener('click', () => {
