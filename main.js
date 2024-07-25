@@ -583,6 +583,14 @@ const quotes = [
             quote: "The more silence you have in your life, the louder your work can be.",
             person: "Maxime Lagacé"
         },
+        {
+            quote: "The one thing that you have that nobody else has is you. Your voice, your mind, your story, your vision. So write and draw and build and play and dance and live as only you can.",
+            person: "Neil Gaiman"
+        },
+        {
+            quote: "Your best life will not be found in comfort. It will be found in fighting for what you believe in.",
+            person: "Maxime Lagacé"
+        }, 
     ]
 
     btn.addEventListener('click', () => {
