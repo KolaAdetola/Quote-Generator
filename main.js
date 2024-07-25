@@ -591,6 +591,10 @@ const quotes = [
             quote: "Your best life will not be found in comfort. It will be found in fighting for what you believe in.",
             person: "Maxime Lagacé"
         }, 
+        {
+            quote: "If my life is going to mean anything, I have to live it myself.",
+            person: "Rick Riordan"
+        },
     ]
 
     btn.addEventListener('click', () => {
