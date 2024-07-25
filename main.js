@@ -607,6 +607,10 @@ const quotes = [
             quote: "Life is not a competition. It’s not about winning or losing. Life is about all the fun we have before it ends.",
             person: "Simon Sinek"
         },
+        {
+            quote: "Life is a question and how we live it is our answer.",
+            person: "Gary Keller"
+        },
     ]
 
     btn.addEventListener('click', () => {
