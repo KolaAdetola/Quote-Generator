@@ -599,6 +599,10 @@ const quotes = [
             quote: "The greatest discovery of any generation is that a human being can alter his life by altering his attitude.",
             person: "William James"
         },
+        {
+            quote: "Our favorite attitude should be gratitude.",
+            person: "Zig Ziglar"
+        },
     ]
 
     btn.addEventListener('click', () => {
