@@ -611,6 +611,10 @@ const quotes = [
             quote: "Life is a question and how we live it is our answer.",
             person: "Gary Keller"
         },
+        {
+            quote: "Life is not accumulation, it’s about contribution.",
+            person: "Stephen R. Covey"
+        },
     ]
 
     btn.addEventListener('click', () => {
