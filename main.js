@@ -603,6 +603,10 @@ const quotes = [
             quote: "Our favorite attitude should be gratitude.",
             person: "Zig Ziglar"
         },
+        {
+            quote: "Life is not a competition. It’s not about winning or losing. Life is about all the fun we have before it ends.",
+            person: "Simon Sinek"
+        },
     ]
 
     btn.addEventListener('click', () => {
