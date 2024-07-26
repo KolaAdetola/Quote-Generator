@@ -623,6 +623,10 @@ const quotes = [
             quote: "We should be satisfied with the small things in life. The less we need, the less trouble we can have.",
             person: "Leo Tolstoy"
         },
+        {
+            quote: "Life does not have to be perfect to be wonderful.",
+            person: "Annette Funicello"
+        },
     ]
 
     btn.addEventListener('click', () => {
