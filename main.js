@@ -619,6 +619,10 @@ const quotes = [
             quote: "Life is a tree. Your mind is the roots and who you become is the fruits.",
             person: "Maxime Lagacé"
         },
+        {
+            quote: "We should be satisfied with the small things in life. The less we need, the less trouble we can have.",
+            person: "Leo Tolstoy"
+        },
     ]
 
     btn.addEventListener('click', () => {
