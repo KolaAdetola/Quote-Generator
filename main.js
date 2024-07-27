@@ -631,6 +631,10 @@ const quotes = [
             quote: "This is a wonderful day. I’ve never seen this one before.",
             person: "Maya Angelou"
         },
+        {
+            quote: "The ego wants comfort and certainty. The soul wants to live fully.",
+            person: "Maxime Lagacé"
+        },
     ]
 
     btn.addEventListener('click', () => {
