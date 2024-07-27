@@ -627,6 +627,10 @@ const quotes = [
             quote: "Life does not have to be perfect to be wonderful.",
             person: "Annette Funicello"
         },
+        {
+            quote: "This is a wonderful day. I’ve never seen this one before.",
+            person: "Maya Angelou"
+        },
     ]
 
     btn.addEventListener('click', () => {
