@@ -635,6 +635,15 @@ const quotes = [
             quote: "The ego wants comfort and certainty. The soul wants to live fully.",
             person: "Maxime Lagacé"
         },
+        {
+            quote: "The best way to predict the future is to create it.",
+            person: "Peter Drucker"
+        },
+        {
+            quote: "Not giving up on yourself is whats truly important. That way you don’t end up pathetic.",
+            person: "Reiko Mikami"
+        },
+
     ]
 
     btn.addEventListener('click', () => {
