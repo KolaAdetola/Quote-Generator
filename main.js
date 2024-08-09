@@ -271,10 +271,10 @@ const quotes = [
             quote: "Whether you think you can or you think you can't, you're right.",
             person: "Henry Ford",
         },
-        {
-            quote: "Act as if what you do makes a difference. It does.",
-            person: "William James",
-        },
+        // {
+        //     quote: "Act as if what you do makes a difference. It does.",
+        //     person: "William James",
+        // },
         {
             quote: "The only true wisdom is in knowing you know nothing.",
             person: "Socrates",
